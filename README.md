@@ -9,7 +9,7 @@ A Twitter clone where users can post tweets and like & replay to other tweets!
 
 ## Backend
 
-I used "json-server" npm backage to mimic a backend for the app but ofcourse feel free to use a real backend , what matters is offering same endpoints.
+I used "json-server" npm Package to mimic a backend for the app but ofcourse feel free to use a real backend , what matters is offering same endpoints.
 
 App is currently listening for
 
