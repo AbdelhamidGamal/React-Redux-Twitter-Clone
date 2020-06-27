@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "abdelhameedgamal",
+      "name": "Abdelhameed Gamal",
+      "avatarURL": "http://pics.com/abdelhameed.jpg",
+      "tweets": [
+        "8xf0y6ziyjabvozxxx3nd",
+        "hbsc73kzqi75rg7xxxx0i6a",
+        "2mb6re13q842wu8xxx6bhk",
+        "6h5ims9iks66d4mxxxizmv"
+      ]
+    }
+  ],
+  "tweets": [
+    {
+      "text": "بسم الله الرحمن الرحيم",
+      "author": "abdelhameedgamal",
+      "timestamp": 1584037885585,
+      "likes": [],
+      "replies": [
+        "44JE73K",
+        "fl7lVLf"
+      ],
+      "replyingTo": null,
+      "id": "cAGS1_6"
+    },
+    {
+      "text": " besm allah alrahman alraheem",
+      "author": "abdelhameedgamal",
+      "timestamp": 1593299842573,
+      "likes": [],
+      "replies": [],
+      "replyingTo": null,
+      "id": "LtdlUw_"
+    },
+    {
+      "text": "Allah",
+      "author": "abdelhameedgamal",
+      "timestamp": 1593299860382,
+      "likes": [],
+      "replies": [],
+      "replyingTo": "cAGS1_6",
+      "id": "44JE73K"
+    },
+    {
+      "text": "la elah ela ho",
+      "author": "abdelhameedgamal",
+      "timestamp": 1593299868391,
+      "likes": [],
+      "replies": [],
+      "replyingTo": "cAGS1_6",
+      "id": "fl7lVLf"
+    }
+  ]
+}
