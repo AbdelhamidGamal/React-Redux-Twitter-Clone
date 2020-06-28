@@ -3,7 +3,7 @@ import { reciveTweets } from './tweets';
 import { setAuthedUser } from './authedUser';
 import { showLoading, hideLoading } from 'react-redux-loading';
 
-const AUTHED_ID = 'abdelhameedgamal';
+const AUTHED_ID = 'tylermcginnis';
 
 export function handleReciveData() {
   return dispatch => {
